@@ -1,0 +1,7 @@
+{
+    "name": "aurimasl/dummyrepo",
+    "require": {},
+    "repositories": {
+        "packagist": false
+    }
+}
